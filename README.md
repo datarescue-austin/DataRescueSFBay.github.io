@@ -1,9 +1,9 @@
-# Data Rescue SF Bay
+# Data Rescue Austin
 
-Code for the website: [http://datarescuesfbay.org/](http://datarescuesfbay.org/)
+Code for the website: https://github.com/datarescue-austin/datarescue-austin.github.io
 
 ---
 
-This is forked from [github.com/t413/SinglePaged](https://github.com/t413/SinglePaged)
+This is forked from [https://github.com/DataRescueSFBay/DataRescueSFBay.github.io](https://github.com/t413/SinglePaged)
 
-Each of the sections is in 2016/_posts
+Each of the sections is in 2017/_posts
