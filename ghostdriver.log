@@ -1,0 +1,47 @@
+[INFO  - 2017-02-23T17:19:29.276Z] GhostDriver - Main - running on port 51801
+[INFO  - 2017-02-23T17:19:29.861Z] Session [3c2cb5e0-f9ec-11e6-b102-459dc6b31ce8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-02-23T17:19:29.861Z] Session [3c2cb5e0-f9ec-11e6-b102-459dc6b31ce8] - page.customHeaders:  - {}
+[INFO  - 2017-02-23T17:19:29.861Z] Session [3c2cb5e0-f9ec-11e6-b102-459dc6b31ce8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-02-23T17:19:29.861Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3c2cb5e0-f9ec-11e6-b102-459dc6b31ce8
+[ERROR - 2017-02-23T17:20:01.315Z] Session [3c2cb5e0-f9ec-11e6-b102-459dc6b31ce8] - page.onError - msg: Error: Load timeout for modules: looker
+http://requirejs.org/docs/errors.html#timeout
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-23T17:20:01.315Z] Session [3c2cb5e0-f9ec-11e6-b102-459dc6b31ce8] - page.onError - stack:
+  ca (https://statesummaries.ncics.org/sites/all/modules/custom/gcis_integration/js/require.js?oltwup:7)
+  h (https://statesummaries.ncics.org/sites/all/modules/custom/gcis_integration/js/require.js?oltwup:7)
+  g (https://statesummaries.ncics.org/sites/all/modules/custom/gcis_integration/js/require.js?oltwup:7)
+  (anonymous function) (https://statesummaries.ncics.org/sites/all/modules/custom/gcis_integration/js/require.js?oltwup:7)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-23T17:20:07.903Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1487870407887
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-02-23T17:20:55.212Z] Session [3c2cb5e0-f9ec-11e6-b102-459dc6b31ce8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-02-23T17:20:55.213Z] Session [3c2cb5e0-f9ec-11e6-b102-459dc6b31ce8] - page.customHeaders:  - {}
+[INFO  - 2017-02-23T17:24:29.272Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-02-23T17:26:49.185Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1487870809174
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-02-23T17:27:08.044Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1487870827999
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-02-23T17:29:29.270Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-23T17:30:00.755Z] Session [3c2cb5e0-f9ec-11e6-b102-459dc6b31ce8] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-02-23T17:30:00.755Z] Session [3c2cb5e0-f9ec-11e6-b102-459dc6b31ce8] - page.customHeaders:  - {}
+[ERROR - 2017-02-23T17:30:36.970Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1487871036933
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-02-23T17:34:29.272Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-23T17:39:29.270Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-23T17:44:29.263Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-23T17:49:29.260Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-23T17:54:29.266Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-23T17:59:29.268Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-23T18:04:29.264Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-23T18:09:29.266Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-23T18:14:29.259Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-23T18:19:29.256Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-23T18:24:29.257Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-23T18:29:29.253Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-02-23T18:34:29.248Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
