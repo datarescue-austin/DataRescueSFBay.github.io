@@ -16,7 +16,7 @@ highlighter: rouge
 ### content configuration ###
 title:       "DataRescue Austin"
 keywords:    ""
-description: "Home page for the DataRescue SF Bay"
+description: "Home page for DataRescue Austin"
 source_link: 
 favicon:     "img/data_rescue_sf_favicon.jpg"
 touch_icon:  "data_rescue_sf_favicon.jpg"
