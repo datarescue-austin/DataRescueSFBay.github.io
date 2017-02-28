@@ -471,10 +471,10 @@ html { box-sizing: border-box; }
 .text-black a { color: #111111; }
 .bg-black     { background-color: #111111 !important; }
 
-.border-white { border-color: #eee !important; }
-.text-white   { color: #eee; }
-.text-white a { color: #eee; }
-.bg-white     { background-color: #eee !important; }
+.border-white { border-color: #FFFFFF !important; }
+.text-white   { color: #FFFFFF; }
+.text-white a { color: #FFFFFF; }
+.bg-white     { background-color: #FFFFFF !important; }
 
 .border-offwhite { border-color: #f8f8f8 !important; }
 .text-offwhite   { color: #f8f8f8; }
@@ -526,40 +526,69 @@ html { box-sizing: border-box; }
 .text-darkblue a { color: #240563; }
 .bg-darkblue     { background-color: #240563 !important; }
 
+.border-midgray { border-color: #666666 !important; }
+.text-midgray   { color: #666666; }
+.text-midgray a { color: #666666; }
+.bg-midgray     { background-color: #666666 !important; }
+
 
 /* ----- per-post colors! ----- */
 
   
   
   
-  nav .p-id201620140110about { border-color: #c869bf; }
-  #id201620140110about { background-color: #c869bf !important; color: #111111; }
-  #id201620140110about a { color: #111111; }
-  #id201620140110about .sectiondivider { color: #c869bf; }
+  nav .p-id201620140111who { border-color: #c869bf; }
+  #id201620140111who { background-color: #c869bf !important; color: #111111; }
+  #id201620140111who a { color: #111111; }
+  #id201620140111who .sectiondivider { color: #c869bf; }
 
   
   
   
-  nav .p-id201620140104schedule { border-color: #49a7e9; }
-  #id201620140104schedule { background-color: #49a7e9 !important; color: #111111; }
-  #id201620140104schedule a { color: #111111; }
-  #id201620140104schedule .sectiondivider { color: #49a7e9; }
+  nav .p-id201620140107code { border-color: #240563; }
+  #id201620140107code { background-color: #240563 !important; color: #FFFFFF; }
+  #id201620140107code a { color: #FFFFFF; }
+  #id201620140107code .sectiondivider { color: #240563; }
 
   
   
   
-  nav .p-id201620140102logistics { border-color: #940a3d; }
-  #id201620140102logistics { background-color: #940a3d !important; color: #eee; }
-  #id201620140102logistics a { color: #eee; }
-  #id201620140102logistics .sectiondivider { color: #940a3d; }
+  nav .p-id201620140106where { border-color: #fab125; }
+  #id201620140106where { background-color: #fab125 !important; color: #111111; }
+  #id201620140106where a { color: #111111; }
+  #id201620140106where .sectiondivider { color: #fab125; }
 
   
   
   
-  nav .p-id201620140101intro { border-color: #0fbfcf; }
-  #id201620140101intro { background-color: #0fbfcf !important; color: #eee; }
-  #id201620140101intro a { color: #eee; }
-  #id201620140101intro .sectiondivider { color: #0fbfcf; }
+  nav .p-id201620140104when { border-color: #49a7e9; }
+  #id201620140104when { background-color: #49a7e9 !important; color: #111111; }
+  #id201620140104when a { color: #111111; }
+  #id201620140104when .sectiondivider { color: #49a7e9; }
+
+  
+  
+  
+  nav .p-id201620140103what { border-color: #0a9461; }
+  #id201620140103what { background-color: #0a9461 !important; color: #111111; }
+  #id201620140103what a { color: #111111; }
+  #id201620140103what .sectiondivider { color: #0a9461; }
+
+  
+  
+  
+  nav .p-id201620140102join { border-color: #940a3d; }
+  #id201620140102join { background-color: #940a3d !important; color: #FFFFFF; }
+  #id201620140102join a { color: #FFFFFF; }
+  #id201620140102join .sectiondivider { color: #940a3d; }
+
+  
+  
+  
+  nav .p-id201620140101intro { border-color: #FFFFFF; }
+  #id201620140101intro { background-color: #FFFFFF !important; color: #555555; }
+  #id201620140101intro a { color: #555555; }
+  #id201620140101intro .sectiondivider { color: #FFFFFF; }
 
 
 
@@ -598,7 +627,7 @@ img {
 hr {
   margin:60px auto;
   width:50%;
-  border-color: #eee;
+  border-color: #FFFFFF;
 }
 
 .container { word-wrap: break-word; }
@@ -714,7 +743,7 @@ nav ul li:hover, nav ul li.active {
   width:100%;
   min-height:300px;
   padding:210px 0;
-  background:url(img/bgnoise.png);
+  /* background:url(img/bgnoise.png); */
   /* generated noise from noisetexturegenerator.com */
 }
 

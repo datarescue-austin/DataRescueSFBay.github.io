@@ -1,6 +1,6 @@
 html *
 {
-     font-family: 'Open Sans', sans-serif; 
+     font-family: 'Open Sans', sans-serif;
 }
 
 p {
@@ -24,3 +24,5 @@ p {
     position: relative;
     top: 7px;
 }
+
+#mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif; }
